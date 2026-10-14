@@ -60,8 +60,6 @@ TH2_AMQP/
 
 ## 🔖 Bài 1 — Hello World (Queue cơ bản)
 
-> _(Chưa triển khai)_
-
 **Mô hình:** Producer → Queue → Consumer (Default Exchange)
 
 ```powershell
@@ -75,8 +73,6 @@ python producer_bai1.py
 ---
 
 ## 🔖 Bài 2 — Cảm biến IoT (Fanout / Topic Exchange)
-
-> _(Chưa triển khai)_
 
 **Mô hình:** Sensor Producer → Exchange → Monitor Consumer
 
