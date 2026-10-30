@@ -181,3 +181,5 @@ python alert_producer_bai3.py
 > 💡 **Kết luận:** Direct Exchange định tuyến tin nhắn **chính xác** dựa trên `routing_key`. Tin nhắn có `routing_key = "info"` bị **loại bỏ** vì không có queue nào bind với routing key đó — đây là đặc điểm cốt lõi của Direct Exchange so với Fanout Exchange (gửi đến tất cả).
 
 ---
+
+
